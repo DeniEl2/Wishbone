@@ -858,3 +858,228 @@ a{
     outline: none;
     border: 1px solid white;
 }
+
+@media(min-width: 320px){
+.our-section{
+        width: 1440px;
+    }
+    
+    .section-middle{
+        width: 1440px;
+    }
+
+    .about{
+        margin-left: 380px;
+    }
+    
+    .about__section-title{
+        margin-right: 20px;
+    }
+
+    .wrapper-our-process{
+        margin-left: 100px;
+    }
+
+    .section-middle-case{
+        width: 1440px;
+    }
+
+    .section__prior{
+        width: 1440px;
+    }
+
+    .section-bottom{
+        width: 1440px;
+    }
+
+    .featured{
+        width: 1440px;
+    }
+
+    .cta-project{
+        width: 1440px;
+    }
+
+    .footer{
+        width: 1440px;
+    }
+
+}
+
+@media(min-width: 480px){
+    .our-section{
+        width: 1440px;
+    }
+    
+    .section-middle{
+        width: 1440px;
+    }
+
+    .about{
+        margin: 100px 400px;
+        display: flex;
+    }
+
+    .about__section-title{
+        margin-right: 20px;
+    }
+
+    .wrapper-our-process{
+        margin-left: 100px;
+    }
+
+    .section-middle-case{
+        width: 1440px;
+    }
+
+    .section__prior{
+        width: 1440px;
+    }
+
+    .section-bottom{
+        width: 1440px;
+    }
+
+    .featured{
+        width: 1440px;
+    }
+
+    .cta-project{
+        width: 1440px;
+    }
+
+    .footer{
+        width: 1440px;
+    }
+}
+
+@media(min-width: 768px){
+    .our-section{
+        width: 1440px;
+    }
+    
+    .section-middle{
+        width: 1440px;
+    }
+
+    .about{
+        margin: 100px 400px;
+        display: flex;
+    }
+
+    .about__section-title{
+        margin-right: 20px;
+    }
+
+    .wrapper-our-process{
+        margin-left: 100px;
+    }
+
+    .section-middle-case{
+        width: 1440px;
+    }
+
+    .section__prior{
+        width: 1440px;
+    }
+
+    .section-bottom{
+        width: 1440px;
+    }
+
+    .featured{
+        width: 1440px;
+    }
+
+    .cta-project{
+        width: 1440px;
+    }
+
+    .footer{
+        width: 1440px;
+    }
+}
+
+@media(min-width: 1024px){
+    .our-section{
+        width: 1440px;
+    }
+    
+    .section-middle{
+        width: 1440px;
+    }
+
+    .about{
+        margin: 100px 220px;
+    }
+
+    .wrapper-our-process{
+        margin-left: 100px;
+    }
+
+    .section-middle-case{
+        width: 1440px;
+    }
+
+    .section__prior{
+        width: 1440px;
+    }
+
+    .section-bottom{
+        width: 1440px;
+    }
+
+    .featured{
+        width: 1440px;
+    }
+
+    .cta-project{
+        width: 1440px;
+    }
+
+    .footer{
+        width: 1440px;
+    }
+}
+
+@media(min-width: 1200px){
+    .our-section{
+        width: 1440px;
+    }
+    
+    .section-middle{
+        width: 1440px;
+    }
+
+    .about{
+        margin-left: 60px;
+    }
+
+    .wrapper-our-process{
+        margin-left: 100px;
+    }
+
+    .section-middle-case{
+        width: 1440px;
+    }
+
+    .section__prior{
+        width: 1440px;
+    }
+
+    .section-bottom{
+        width: 1440px;
+    }
+
+    .featured{
+        width: 1440px;
+    }
+
+    .cta-project{
+        width: 1440px;
+    }
+
+    .footer{
+        width: 1440px;
+    }
+}
